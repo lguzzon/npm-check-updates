@@ -32,7 +32,7 @@
     "watch": "chokidar \"lib/**/*.js\" -c \"npm run test\"",
     "test": "npm run lint && mocha && mocha test/individual",
     "snyk-protect": "snyk protect",
-    "prepublish": "npm run snyk-protect"
+    "prepare": "npm run snyk-protect"
   },
   "bin": {
     "npm-check-updates": "./bin/npm-check-updates",
@@ -58,8 +58,8 @@
     "json-parse-helpfulerror": "^1.0.3",
     "lodash": "^4.17.3",
     "node-alias": "^1.0.4",
-    "npm": "^5.7.1",
-    "npmi": "^3.0.0",
+    "npm": "^4.0.5",
+    "npmi": "^2.0.1",
     "require-dir": "^0.3.1",
     "semver": "^5.3.0",
     "semver-utils": "^1.1.1",
