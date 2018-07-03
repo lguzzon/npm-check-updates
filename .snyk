@@ -12,3 +12,52 @@ patch:
         patched: '2018-07-03T15:24:13.457Z'
     - npm > node-gyp > request > hawk > sntp > hoek:
         patched: '2018-07-03T15:24:13.457Z'
+    - npmi > npm > libcipm > npm-lifecycle > node-gyp > request > hawk > hoek:
+        patched: '2018-07-03T15:24:47.420Z'
+    - npm > libcipm > npm-lifecycle > node-gyp > request > hawk > hoek:
+        patched: '2018-07-03T15:24:47.420Z'
+    - npm > libcipm > npm-lifecycle > node-gyp > request > hawk > sntp > hoek:
+        patched: '2018-07-03T15:24:47.420Z'
+    - npm > libcipm > npm-lifecycle > node-gyp > request > hawk > cryptiles > boom > hoek:
+        patched: '2018-07-03T15:24:47.420Z'
+    - npm > npm-lifecycle > node-gyp > request > hawk > hoek:
+        patched: '2018-07-03T15:24:47.420Z'
+    - npm > npm-lifecycle > node-gyp > request > hawk > boom > hoek:
+        patched: '2018-07-03T15:24:47.420Z'
+    - npm > npm-lifecycle > node-gyp > request > hawk > sntp > hoek:
+        patched: '2018-07-03T15:24:47.420Z'
+    - npm > npm-lifecycle > node-gyp > request > hawk > cryptiles > boom > hoek:
+        patched: '2018-07-03T15:24:47.420Z'
+    - npmi > npm > node-gyp > request > hawk > hoek:
+        patched: '2018-07-03T15:24:47.420Z'
+    - npmi > npm > node-gyp > request > hawk > boom > hoek:
+        patched: '2018-07-03T15:24:47.420Z'
+    - npmi > npm > node-gyp > request > hawk > sntp > hoek:
+        patched: '2018-07-03T15:24:47.420Z'
+    - npmi > npm > node-gyp > request > hawk > cryptiles > boom > hoek:
+        patched: '2018-07-03T15:24:47.420Z'
+    - npm > libcipm > npm-lifecycle > node-gyp > request > hawk > boom > hoek:
+        patched: '2018-07-03T15:24:47.420Z'
+    - npmi > npm > libcipm > npm-lifecycle > node-gyp > request > hawk > boom > hoek:
+        patched: '2018-07-03T15:24:47.420Z'
+    - npmi > npm > libcipm > npm-lifecycle > node-gyp > request > hawk > sntp > hoek:
+        patched: '2018-07-03T15:24:47.420Z'
+    - npmi > npm > libcipm > npm-lifecycle > node-gyp > request > hawk > cryptiles > boom > hoek:
+        patched: '2018-07-03T15:24:47.420Z'
+    - npmi > npm > npm-lifecycle > node-gyp > request > hawk > hoek:
+        patched: '2018-07-03T15:24:47.420Z'
+    - npmi > npm > npm-lifecycle > node-gyp > request > hawk > boom > hoek:
+        patched: '2018-07-03T15:24:47.420Z'
+    - npmi > npm > npm-lifecycle > node-gyp > request > hawk > sntp > hoek:
+        patched: '2018-07-03T15:24:47.420Z'
+    - npmi > npm > npm-lifecycle > node-gyp > request > hawk > cryptiles > boom > hoek:
+        patched: '2018-07-03T15:24:47.420Z'
+  'npm:lodash:20180130':
+    - npm > cli-table2 > lodash:
+        patched: '2018-07-03T15:24:47.420Z'
+    - npm > npm-audit-report > cli-table2 > lodash:
+        patched: '2018-07-03T15:24:47.420Z'
+    - npmi > npm > cli-table2 > lodash:
+        patched: '2018-07-03T15:24:47.420Z'
+    - npmi > npm > npm-audit-report > cli-table2 > lodash:
+        patched: '2018-07-03T15:24:47.420Z'

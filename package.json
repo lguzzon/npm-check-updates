@@ -32,7 +32,8 @@
     "watch": "chokidar \"lib/**/*.js\" -c \"npm run test\"",
     "test": "npm run lint && mocha && mocha test/individual",
     "snyk-protect": "snyk protect",
-    "prepublish": "npm run snyk-protect"
+    "prepublish": "npm run snyk-protect",
+    "prepare": "npm run snyk-protect"
   },
   "bin": {
     "npm-check-updates": "./bin/npm-check-updates",
