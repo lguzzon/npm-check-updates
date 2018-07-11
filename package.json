@@ -65,7 +65,7 @@
     "semver-utils": "^1.1.1",
     "spawn-please": "^0.2.0",
     "update-notifier": "^1.0.3",
-    "snyk": "^1.88.1"
+    "snyk": "^1.88.2"
   },
   "devDependencies": {
     "chai": "^3.5.0",
